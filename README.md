@@ -1,2 +1,2 @@
-# C_CNN
-CNN ground up
+# C_CNF
+CNF ground up
